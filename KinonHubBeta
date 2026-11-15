@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://copyandpaste.at/api/raw?id=jJvL3wqP1l"))()
+loadstring(game:HttpGet("https://flowauth.net/v1/loaders/KinonHub.lua"))()
