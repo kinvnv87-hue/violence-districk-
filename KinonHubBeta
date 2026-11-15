@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://flowauth.net/v1/loaders/KinonHub.lua"))()
+loadstring(game:HttpGet("https://api.obscuravm.com/scripts/6335021742803299417"))()
